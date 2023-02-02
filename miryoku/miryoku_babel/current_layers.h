@@ -25,7 +25,7 @@ U_NP,              U_NP,              &kp LPAR,          &kp RPAR,          &kp 
 #define MIRYOKU_ALTERNATIVES_NAV_VI \
 U_BOOT,            &u_to_U_TAP,       &u_to_U_EXTRA,     &u_to_U_BASE,      U_NA,              U_RDO,             U_PST,             U_CPY,             U_CUT,             U_UND,             \
 &kp LGUI,          &kp LALT,          &kp LCTRL,         &kp LSHFT,         U_NA,              &kp LEFT,          &kp DOWN,          &kp UP,            &kp RIGHT,         &u_caps_word,      \
-U_NA,              &kp RALT,          &u_to_U_NUM,       &u_to_U_NAV,       U_NA,              &kp LC(BSPC),      &kp BSPC,         &kp PG_UP,         &kp END,           &kp INS,           \
+U_NA,              &kp RALT,          &u_to_U_NUM,       &u_to_U_NAV,       U_NA,              &kp RC(BSPC),      &kp BSPC,         &kp PG_UP,         &kp END,           &kp INS,           \
 U_NP,              U_NP,              U_NA,              U_NA,              U_NA,              &kp RET,           &kp ESC,          &kp DEL,           U_NP,              U_NP
 
 #define MIRYOKU_ALTERNATIVES_NUM \
